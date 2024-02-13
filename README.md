@@ -40,6 +40,7 @@
 ###### Things are pretty simple with function placement in Swift, meaning that functions can be defined anywhere within the code file, and they do not have to be placed in any specific location for them to run. Swift allows you to define functions before or after their usage within the file. 
 
 #### 4. Does your language support recursive functions?
+###### Yes, Swift does support recursive functions.
 
 #### 5. Can functions in your language accept multiple parameters? Can they be of different data types?
 
