@@ -5,3 +5,5 @@
 * For-in Loops
 * While Loops
 * Repeat-while Loops
+
+#### 2. What is the syntax for declaring a function in your language?
