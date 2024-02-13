@@ -37,6 +37,7 @@
               print(greet(person: "Karley"))
 
 #### 3. Are there any rules about where the function has to be placed in your code file so that it can run?
+###### Things are pretty simple with function placement in Swift, meaning that functions can be defined anywhere within the code file, and they do not have to be placed in any specific location for them to run. Swift allows you to define functions before or after their usage within the file. 
 
 #### 4. Does your language support recursive functions?
 
