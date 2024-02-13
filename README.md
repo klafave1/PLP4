@@ -59,6 +59,9 @@
               printDetails(name: "Karley", age: 20, height: 63.5)
 
 #### 6. Can functions in your language return multiple values at the same time? How is that implemented? If not, are there ways around that problem? What are they?
+###### No, Swift functions cannot return multiple values at once. There are two ways around this in order to send back multiple values:
+* Tuple - (name: String, age: Int)
+* Some sort of collection - array or dictionary
 
 #### 7. Is your language pass-by reference or value? Check your code against outside sources in case there is anything tricky going on (like in Perl).
 
