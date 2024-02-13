@@ -41,6 +41,14 @@
 
 #### 4. Does your language support recursive functions?
 ###### Yes, Swift does support recursive functions.
+*             //Example
+              func factorial(of number: Int) -> Int {
+              if number == 0 {
+                return 1
+              }
+              return number * factorial(of: number - 1)
+            }
+            print(factorial(of: 5))
 
 #### 5. Can functions in your language accept multiple parameters? Can they be of different data types?
 
