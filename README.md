@@ -21,6 +21,20 @@
         } while counter < 5
 
 #### 2. What is the syntax for declaring a function in your language?
+##### Declaring a function in Swift (components):
+* "func" - keyword used to declare a function in Swift.
+* Function Name - the descriptive name you give to your function.
+* Parameters - the input values that the function accepts. Parameters are enclosed in parentheses. If the function doesn't take any parameters, you leave the parentheses empty. You can optionally define one or more parameters.
+* Parameter Type - specifies the data type of each parameter.
+* "->" - This arrow syntax indicates the return type of the function. If the function doesn't return any value, you can omit the "-> ReturnType" part.
+* Return Type - specifies the data type of the value that the function returns. If the function doesn't return any value, you can omit this part also.
+* "{}" - body of the function containing the statements that define what the function does.
+*             //Example
+              func greet(person: String) -> String {
+                let greeting = "Hello, " + person + "!"
+                return greeting
+              }
+              print(greet(person: "Karley"))
 
 #### 3. Are there any rules about where the function has to be placed in your code file so that it can run?
 
