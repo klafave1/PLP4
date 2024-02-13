@@ -8,6 +8,11 @@
           print("Hello, \(name)!")
       }
 * While Loops
+*       var i = 0
+        while i < 5 {
+            print(i)
+            i += 1
+        }
 * Repeat-while Loops
 
 #### 2. What is the syntax for declaring a function in your language?
