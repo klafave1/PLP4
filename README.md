@@ -68,3 +68,10 @@
 
 #### 8. Are there any other aspects of functions in your language that aren't specifically asked about here, but that are important to know in order to write one? What are they?
 ###### One important aspect of functions in Swift is the ability to use default parameter values, which allows you to define default values for function parameters. Additionally, Swift supports function overloading, which means you can define multiple functions with the same name but different parameter types or numbers of parameters. 
+
+#### Sources:
+* https://docs.swift.org/swift-book/documentation/the-swift-programming-language/controlflow/
+* https://docs.swift.org/swift-book/documentation/the-swift-programming-language/functions/
+* https://www.kodeco.com/books/swift-cookbook/v1.0/chapters/9-use-recursive-functions-in-swift
+* https://www.hackingwithswift.com/quick-start/understanding-swift/how-can-you-return-two-or-more-values-from-a-function
+* https://www.swift.org/documentation/articles/value-and-reference-types.html
