@@ -64,5 +64,7 @@
 * Some sort of collection - array or dictionary
 
 #### 7. Is your language pass-by reference or value? Check your code against outside sources in case there is anything tricky going on (like in Perl).
+###### Swift uses pass-by-value for basic data types like integers, floats, and structs, but uses pass-by-reference for complex types like classes.
 
 #### 8. Are there any other aspects of functions in your language that aren't specifically asked about here, but that are important to know in order to write one? What are they?
+###### One important aspect of functions in Swift is the ability to use default parameter values, which allows you to define default values for function parameters. Additionally, Swift supports function overloading, which means you can define multiple functions with the same name but different parameter types or numbers of parameters. 
