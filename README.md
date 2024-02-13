@@ -51,6 +51,12 @@
               print(factorial(of: 5))
 
 #### 5. Can functions in your language accept multiple parameters? Can they be of different data types?
+###### Yes, functions in Swift can accept multiple parameters and they can be different data types. 
+*             //Example
+              func printDetails(name: String, age: Int, height: Double) {
+                print("Name: \(name), Age: \(age), Height: \(height) inches")
+              }
+              printDetails(name: "Karley", age: 20, height: 63.5)
 
 #### 6. Can functions in your language return multiple values at the same time? How is that implemented? If not, are there ways around that problem? What are they?
 
