@@ -14,6 +14,11 @@
             i += 1
         }
 * Repeat-while Loops
+*       var counter = 0
+        repeat {
+            print("The counter is \(counter)")
+            counter += 1
+        } while counter < 5
 
 #### 2. What is the syntax for declaring a function in your language?
 
